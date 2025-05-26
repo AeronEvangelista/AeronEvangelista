@@ -1,6 +1,6 @@
 
-# 💫 Hwllo World! I'm :
-Aeron M. Evangelista<br>BSCS @ BatStateU – TNEU | Dev • Leader • Innovator<br>🚀 Building tech with purpose. <br>💡 Building projects in web, IoT, and community-driven solutions | Open to collaboration<br>📧 mr.aeronevangelista@gmail.com
+# 💫 Hello World! I'm Aeron :
+BSCS @ BatStateU – TNEU | Dev • Leader • Innovator<br>🚀 Building tech with purpose. <br>💡 Building projects in web, IoT, and community-driven solutions | Open to collaboration<br>📧 mr.aeronevangelista@gmail.com
 
 
 ## 🌐 Socials:
